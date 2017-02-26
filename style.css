@@ -1,0 +1,42 @@
+
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    background: black;
+}
+
+
+#wrapper{
+    width: 100%;
+    height: 500px;
+    background: gray;
+    position: relative;
+}
+
+
+
+
+
+#result{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    font-family: 'Cookie', cursive;
+}
+
+
+#btn{
+    width: 100px;
+    height: 50px;
+    color: green;
+    margin: 40px auto;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
